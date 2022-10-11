@@ -10,7 +10,7 @@
         {"key":"csp_Kuaikan","name":"快看影院","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"click": "ddys.tv;#vjsp > button"},
         {"key":"csp_spider","name":"乐猪影视","type":3,"api":"csp_Lezhu","filterable":1,"quickSearch":1,"searchable":1},
-        {"key":"csp_Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/RayLiang9/0/main/ext/alist.json"},
+        {"key":"csp_Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/RayLiang9/0/main/ext/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/RayLiang9/0/main/jar/alist.jar"},
         {"key":"AliPS","name":"盘搜(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
         {"key":"zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_FindZY","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
         {"key":"Upyunso","name":"up云搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940","jar":""}
