@@ -38,6 +38,16 @@
             "filterable": 1
         },
         {
+            "key": "Bili",
+            "name": "Bili(SP)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/bili.json"
+        },
+        {
             "key": "csp_QQ",
             "name": "企鹅(SP)",
             "type": 3,
