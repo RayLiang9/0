@@ -54,8 +54,7 @@
             "api": "csp_QQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/ext/090909.jar;md5;4a4420350be90a44734b505c1ccd49da"
+            "filterable": 1
         },
         {
             "key": "csp_MGTV",
@@ -64,8 +63,7 @@
             "api": "csp_MGTV",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/ext/090909.jar;md5;4a4420350be90a44734b505c1ccd49da"
+            "filterable": 1
         },
         {
             "key": "csp_IQIYI",
@@ -74,8 +72,7 @@
             "api": "csp_IQIYI",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/ext/090909.jar;md5;4a4420350be90a44734b505c1ccd49da"
+            "filterable": 1
         },
         {
             "key": "csp_LiteApple",
@@ -307,41 +304,6 @@
                 "header": {
                     "User-Agent": "Mozilla/5.0"
                 }
-            }
-        },
-        {
-            "name": "风起许都",
-            "type": 1,
-            "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "iqiyi",
-                    "奇艺",
-                    "爱奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "xigua",
-                    "西瓜",
-                    "sohu",
-                    "搜狐",
-                    "cntv",
-                    "cctv",
-                    "央视",
-                    "1905",
-                    "m1905"
-                ]
             }
         },
         {
