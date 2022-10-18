@@ -55,7 +55,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/ext/090909.jar;md5;4a4420350be90a44734b505c1ccd49da"
+            "jar": "https://rayliang9.github.io/0/jar/normal.jar;md5;4a4420350be90a44734b505c1ccd49da"
         },
         {
             "key": "csp_MGTV",
@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/ext/090909.jar;md5;4a4420350be90a44734b505c1ccd49da"
+            "jar": "https://rayliang9.github.io/0/jar/normal.jar;md5;4a4420350be90a44734b505c1ccd49da"
         },
         {
             "key": "csp_IQIYI",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/ext/090909.jar;md5;4a4420350be90a44734b505c1ccd49da"
+            "jar": "https://rayliang9.github.io/0/jar/normal.jar;md5;4a4420350be90a44734b505c1ccd49da"
         },
         {
             "key": "csp_LiteApple",
@@ -271,11 +271,6 @@
             "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url="
         },
         {
-            "name": "江湖",
-            "type": 1,
-            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-        },
-        {
             "name": "风起江湖2",
             "url": "http://139.159.220.126:5705/parse/api/江湖.js?url=",
             "type": 1,
@@ -310,8 +305,57 @@
             }
         },
         {
-            "name": "风起飞跃",
-            "url": "http://139.159.220.126:5705/parse/api/飞跃.js?url=",
+            "name": "GGTV",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
+        },
+        {
+            "name": "GGTV聚合",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+        },
+        {
+            "name": "☑钢铁侠",
+            "type": 1,
+            "url": "https://json.freejx.in/?url="
+        },
+        {
+            "name": "风起敬湖",
+            "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "风起蛮林",
+            "url": "http://101.34.67.237:5705/parse/api/飞跃.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
@@ -379,6 +423,79 @@
             }
         },
         {
+            "name": "风起并州",
+            "url": "http://101.34.67.237:5705/parse/api/vip.js?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "风起虎牢",
+            "url": "http://101.34.67.237:5705/parse/api/dyg.js?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "江湖解析",
+            "type": 1,
+            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+        },
+        {
             "name": "ok1",
             "type": 0,
             "url": "https://okjx.cc/?url="
@@ -392,11 +509,6 @@
             "name": "☑全民解析",
             "type": 0,
             "url": "http://api.wpsseo.cn/?v="
-        },
-        {
-            "name": "M117",
-            "type": 0,
-            "url": "http://1.117.152.239:39000/?url="
         },
         {
             "name": "parwix1",
@@ -451,6 +563,16 @@
             }
         },
         {
+            "name": "风起陇西1",
+            "type": 0,
+            "url": "https://hxys.tv/bfq/?url="
+        },
+        {
+            "name": "风起天阑",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
             "name": "web1",
             "type": 0,
             "url": "https://www.nxflv.com/?url=",
@@ -490,11 +612,6 @@
                     "ltnb"
                 ]
             }
-        },
-        {
-            "name": "爱酷解析",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
         },
         {
             "name": "爱豆解析",
@@ -832,6 +949,6 @@
             ]
         }
     ],
-    "spider": "https://rayliang9.github.io/0/jar/latest.jar;md5;71ccb7a35a452ea8153b6d920f9f190e",
+    "spider": "https://rayliang9.github.io/0/jar/latest.jar;md5;648653a1067c03abb0ef369a463d7e20",
     "wallpaper": "https://tool.weetai.cn/api"
 }
