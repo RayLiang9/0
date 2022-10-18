@@ -1,5 +1,5 @@
 {
-    "sites": [
+    "sites": [ 
         {
             "key": "csp_SP360",
             "name": "360影视",
@@ -254,11 +254,6 @@
             "name": "解析聚合",
             "type": 3,
             "url": "Demo"
-        },
-        {
-            "name": "手动聚合",
-            "type": 3,
-            "url": "Web"
         },
         {
             "name": "Json并发",
