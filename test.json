@@ -830,6 +830,6 @@
             ]
         }
     ],
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dlgt7/TvJar/jar/custom_spider.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dlgt7/TvJar/jar/custom_spider.jar;md5;0595b3a649e27581e2eb67ebd9bd1c84",
     "wallpaper": "https://tool.weetai.cn/api"
 }
