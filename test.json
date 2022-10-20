@@ -830,6 +830,6 @@
             ]
         }
     ],
-    "spider": "https://rayliang9.github.io/0/jar/latest.jar;md5;648653a1067c03abb0ef369a463d7e20",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dlgt7/TvJar/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api"
 }
