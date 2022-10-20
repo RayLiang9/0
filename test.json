@@ -96,16 +96,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_CZSPP",
-            "name": "厂长资源",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://kebedd69.github.io/jar/甜蜜1020.jar"
-        },
-        {
             "key": "csp_Kuaikan",
             "name": "快看影院",
             "type": 3,
