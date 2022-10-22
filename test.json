@@ -32,7 +32,7 @@
             "key": "桉t4",
             "name": "豆瓣T4",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=26496fd573ac45d5b3b3f77799fc126f&timeout=6",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=6",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -224,7 +224,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "zhaozy",
@@ -235,7 +235,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "Upyunso",
@@ -246,7 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f",
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca",
             "jar": ""
         }
     ],
@@ -424,6 +424,11 @@
             }
         },
         {
+            "name": "解析3",
+            "type": 1,
+            "url": "https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="
+        },
+        {
             "name": "ok1",
             "type": 0,
             "url": "https://okjx.cc/?url="
@@ -547,6 +552,53 @@
                     "优酷",
                     "mgtv",
                     "芒果"
+                ]
+            }
+        },
+        {
+            "name": "解析7",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "解析10",
+            "type": 0,
+            "url": "http://www.ckmov.vip/api.php?url="
+        },
+        {
+            "name": "解析11",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "解析17",
+            "type": 0,
+            "url": "https://www.pangujiexi.cc/jiexi.php?url="
+        },
+        {
+            "name": "8old",
+            "type": 0,
+            "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
                 ]
             }
         }
