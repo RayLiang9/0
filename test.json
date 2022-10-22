@@ -104,24 +104,14 @@
             "filterable": 1
         },
         {
-            "key": "剧荒TV（SP）",
-            "name": "剧荒（SP）",
+            "key": "剧荒TV(SP)",
+            "name": "剧荒(SP)",
             "type": 3,
             "api": "csp_Juhuang",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "jar": ""
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民影视(SP)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"
         },
         {
             "key": "Bttoo",
@@ -133,43 +123,12 @@
             "searchable": 1
         },
         {
-            "key": "zxzj",
-            "name": "在线(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "多多资源",
             "name": "多多资源(切)",
             "type": 1,
             "api": "https://www.ddzyz1.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "csp_XBiu_1080ys",
-            "name": "1080影视(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://1080p.tv/vodtype/2/id/{cateId}.html",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
-        },
-        {
-            "key": "csp_XBiu_cokemv",
-            "name": "cokemv(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
         },
         {
             "key": "csp_xbpq_子子影视",
@@ -190,28 +149,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://kebedd69.github.io/TVbox-interface/胖虎影视.json"
-        },
-        {
-            "key": "csp_XYQBiu_神马影视",
-            "name": "神马影视(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/神马XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
-        },
-        {
-            "key": "csp_XYQBiu_大米星球",
-            "name": "大米星球(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/大米XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_xpath_qiumi",
@@ -449,11 +386,6 @@
                     "User-Agent": "Mozilla/5.0"
                 }
             }
-        },
-        {
-            "name": "解析3",
-            "type": 1,
-            "url": "https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="
         },
         {
             "name": "ok1",
