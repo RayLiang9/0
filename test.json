@@ -311,16 +311,6 @@
             }
         },
         {
-            "name": "GGTV",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
-        },
-        {
-            "name": "GGTV聚合",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-        },
-        {
             "name": "江湖解析",
             "type": 1,
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
@@ -329,11 +319,6 @@
             "name": "rx2",
             "type": 1,
             "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
-        },
-        {
-            "name": "云you",
-            "type": 1,
-            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
         },
         {
             "name": "融兴",
@@ -369,11 +354,6 @@
                     "m1905"
                 ]
             }
-        },
-        {
-            "name": "解析3",
-            "type": 1,
-            "url": "https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="
         },
         {
             "name": "风起敬湖",
@@ -412,75 +392,6 @@
         {
             "name": "风起沛国",
             "url": "http://101.34.67.237:5705/parse/api/无名.js?url=",
-            "type": 1,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
-        },
-        {
-            "name": "风起许都",
-            "type": 1,
-            "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "iqiyi",
-                    "奇艺",
-                    "爱奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "xigua",
-                    "西瓜",
-                    "sohu",
-                    "搜狐",
-                    "cntv",
-                    "cctv",
-                    "央视",
-                    "1905",
-                    "m1905"
-                ]
-            }
-        },
-        {
-            "name": "风起虎牢",
-            "url": "http://101.34.67.237:5705/parse/api/dyg.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
