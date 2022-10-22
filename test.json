@@ -29,15 +29,6 @@
             "click": "ddys.tv;#vjsp > button"
         },
         {
-            "key": "桉t4",
-            "name": "豆瓣T4",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=6",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bili",
             "name": "Bili(SP)",
             "type": 3,
@@ -224,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
             "key": "zhaozy",
@@ -235,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
             "key": "Upyunso",
@@ -246,7 +237,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "f6fcd2d1c0e54601805413721d89e0ca",
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json",
             "jar": ""
         }
     ],
