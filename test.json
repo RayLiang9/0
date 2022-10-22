@@ -29,30 +29,20 @@
             "click": "ddys.tv;#vjsp > button"
         },
         {
-            "key": "Bili",
-            "name": "Bili(SP)",
+            "key": "csp_MGTV",
+            "name": "芒果(SP)",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/bili.json"
-        },
-        {
-            "key": "csp_QQ",
-            "name": "企鹅(SP)",
-            "type": 3,
-            "api": "csp_QQ",
+            "api": "csp_MGTV",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://rayliang9.github.io/0/jar/normal.jar;md5;4a4420350be90a44734b505c1ccd49da"
         },
         {
-            "key": "csp_MGTV",
-            "name": "芒果(SP)",
+            "key": "csp_QQ",
+            "name": "企鹅(SP)",
             "type": 3,
-            "api": "csp_MGTV",
+            "api": "csp_QQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -112,6 +102,52 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "剧荒TV（SP）",
+            "name": "剧荒（SP）",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": ""
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "农民影视(SP)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"
+        },
+        {
+            "key": "Bttoo",
+            "name": "Bttoo(SP)",
+            "api": "csp_Bttoo",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "在线(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "多多资源",
+            "name": "多多资源(切)",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "csp_XBiu_1080ys",
@@ -215,7 +251,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "zhaozy",
@@ -226,7 +262,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "Upyunso",
@@ -237,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json",
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca",
             "jar": ""
         }
     ],
