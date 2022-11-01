@@ -1,60 +1,56 @@
 #EXTM3U
 #EXTINF:-1 group-title="港澳综合",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳综合",凤凰电影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="港澳综合",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳综合",TVB翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 group-title="港澳综合",明珠台
+http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="港澳综合",翡翠台
-http://113.64.147.171:808/hls/67/index.m3u8
+http://113.64.147.230:808/hls/67/index.m3u8
 #EXTINF:-1 group-title="港澳综合",52·那些年的香港贺岁片
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-#EXTINF:-1 group-title="港澳综合",中台湾生活网
-http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳综合",LOTUS澳门
+http://120.84.96.55:808/hls/24/index.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="港澳综合",凤凰香港台
+http://120.84.96.55:808/hls/81/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="港澳综合",台湾偶像剧
 http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
 #EXTINF:-1 group-title="港澳综合",台湾女歌手龙飘飘珍藏版HD
 https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 #EXTINF:-1 group-title="港澳综合",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="港澳综合",澳视MACAU
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 group-title="港澳综合",澳视体育
-http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳视卫星
 http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳视卫视
 http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳视澳门
-http://61.244.22.4/ch1/ch1.live/master.m3u8
-#EXTINF:-1 group-title="港澳综合",澳视综艺
-http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1 group-title="港澳综合",澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8?zgangd
-#EXTINF:-1 group-title="港澳综合",澳视葡文HD
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 group-title="港澳综合",澳视资讯
-http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门1台HD
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳综合",澳门2台HD
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门Macau
-http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
 #EXTINF:-1 group-title="港澳综合",澳门macau
 http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门体育
 http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
-#EXTINF:-1 group-title="港澳综合",澳门卫视
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门综艺
-http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门葡文
-http://61.244.22.4/ch2/ch2.live/master.m3u8
+http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门资讯
 http://61.244.22.4/ch5/info_ch5.live/chunklist_w538888054.m3u8
 #EXTINF:-1 group-title="港澳综合",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 group-title="港澳综合",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 group-title="港澳综合",香港女神系列
 http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 #EXTINF:-1 group-title="港澳综合",香港有線新聞
@@ -102,43 +98,45 @@ http://hls.ye23.vip/hls/cctv17hd.m3u8
 #EXTINF:-1 group-title="央视频道",CETV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="央视频道",CHC动作电影
-http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="央视频道",CHC家庭影院
 http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="央视频道",CHC高清电影
+http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="卫视频道",上海卫视
 http://60.10.167.88:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://117.169.120.140:8080/live/dongnanstv/.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="卫视频道",兵团卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225530/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://39.135.138.60:18890/PLTV/88888888/224/3221225667/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="卫视频道",农林卫视
 http://222.175.159.226:808/hls/77/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="卫视频道",南方卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
 #EXTINF:-1 group-title="卫视频道",厦门卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8?zfud
+http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://117.169.120.140:8080/live/jilinstv/.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8?blog.ntnas.top
+http://39.135.138.58:18890/PLTV/88888888/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="卫视频道",安多卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8?zqinghd
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
@@ -146,57 +144,57 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视频道",康巴卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="卫视频道",旅游卫视
+http://117.169.121.162:6610/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="卫视频道",星空卫视
-http://120.84.96.63:808/hls/79/index.m3u8
+http://120.84.96.50:808/hls/79/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8?fmt=ts2hls
+http://39.135.138.58:18890/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226196/index.m3u8
+http://39.135.138.58:18890/ysten-businessmobile/live/henanstv/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
+http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8?fmt=ts2hls
+http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225740/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="卫视频道",西卫藏卫视
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225562/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏藏语卫视
-http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+http://111.13.42.234/PLTV/88888888/224/3221226497/1.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="卫视频道",龙江卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8
 #EXTINF:-1 group-title="福建卫视",三明公共
-http://stream.smntv.cn/smtv2/sd/live.m3u8
+http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",三明新闻
 http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",三明综合
@@ -214,7 +212,7 @@ http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州新闻综合
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?blog.ntnas.top
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福州影视
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福州影院
@@ -222,13 +220,13 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",福州生活
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福州综合
-http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",福建三坊七巷
 http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福建华安土楼
 http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福建宁德太姥山景区
-http://gcbsc.v.live.baishancdnx.cn/gc/tms01_1/index.m3u8
+http://gcksc.v.kcdnvip.com/gc/tms01_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福建武夷山玉女峰
 http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",福建漳州六鳌翡翠湾
@@ -238,7 +236,7 @@ http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",经典老歌精选八首《闽南语》
 https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
 #EXTINF:-1 group-title="少儿动画",金鹰卡通
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/88888888/3221225554/index.m3u8?fmt=ts2hls
+http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
 #EXTINF:-1 group-title="少儿动画",黑莓动画
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="少儿动画",14台少儿
@@ -248,23 +246,21 @@ http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 #EXTINF:-1 group-title="少儿动画",优漫卡通
 http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8?zjiangsd
 #EXTINF:-1 group-title="少儿动画",北京卡酷少儿
-http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-#EXTINF:-1 group-title="少儿动画",北京少儿
 http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="少儿动画",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
 #EXTINF:-1 group-title="少儿动画",嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="少儿动画",少儿
 http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="少儿动画",山东少儿
-http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
+http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="少儿动画",江西少儿
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="少儿动画",江西少儿家庭
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
 #EXTINF:-1 group-title="少儿动画",河北少儿科教
-http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
 #EXTINF:-1 group-title="少儿动画",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 group-title="少儿动画",炫动卡通
@@ -309,18 +305,22 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
 #EXTINF:-1 group-title="记录频道",南美野生世界2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9c743ea1e41f4bf585fb1470c9575c0d/1200.m3u8
+#EXTINF:-1 group-title="记录频道",南美野生世界3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
 #EXTINF:-1 group-title="记录频道",奇异世界的动物们2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
 #EXTINF:-1 group-title="记录频道",奇异世界的动物们3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
 #EXTINF:-1 group-title="记录频道",奇特动物的奇特遭遇(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
-#EXTINF:-1 group-title="记录频道",奇特动物的奇特遭遇(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
 #EXTINF:-1 group-title="记录频道",小动物大猎手(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
 #EXTINF:-1 group-title="记录频道",小动物大猎手(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
+#EXTINF:-1 group-title="记录频道",小动物大英雄
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
+#EXTINF:-1 group-title="记录频道",小动物的森林童话
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
 #EXTINF:-1 group-title="记录频道",探秘冰上的北极熊(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
 #EXTINF:-1 group-title="记录频道",探秘冰上的北极熊(下)
@@ -331,12 +331,14 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
 #EXTINF:-1 group-title="记录频道",探索发现
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+#EXTINF:-1 group-title="记录频道",海洋宫殿的守护者
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
 #EXTINF:-1 group-title="记录频道",海洋猎手
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
 #EXTINF:-1 group-title="记录频道",海洋里的神奇家族(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
 #EXTINF:-1 group-title="记录频道",海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
 #EXTINF:-1 group-title="记录频道",猫科动物谁为王者(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
 #EXTINF:-1 group-title="记录频道",猫科动物谁为王者(下)
