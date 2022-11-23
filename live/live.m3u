@@ -79,18 +79,14 @@ http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-27
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 group-title="世界杯4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="世界杯4K",抖音4K世界杯SDR源
+#EXTINF:-1 group-title="世界杯4K",抖音4K
 https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-400220578747515574_spuhd.flv?_neptune_token=MIGnBAzc_bPKc0LQKxaKnxQEgYTRyhOvmPI8g3BvC11hvx92niNKhnV0iG7CJHMGGQlpeq0BLWzLqEdW3BpXx3KIcmbqn-vx1b3LfnqH-SdgKmwVWMcDfElieRqxsCjtfSNzpOP1m_n81KUXgsZFLjc7tLI_rT_E0TCDm9SYMb-XA_jUvsRxiby5uVg1NW1DCrxfF8kI56YEEAIdiLRRKQH0Qppqyd-qTYw&expire=637b993b&sign=34c398fe4a97ad685d5406669e9fe7d9&abr_pts=-1800
 #EXTINF:-1 group-title="世界杯4K",纯享4K
 http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 group-title="世界杯4K",欢笑剧场4K
 http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 group-title="世界杯4K",CCTV16-4K-SDR源
+#EXTINF:-1 group-title="世界杯4K",CCTV16-4K
 http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1 group-title="世界杯4K",CCTV16-4K-HLG源
-http://27.36.62.163:9090/live/4010.m3u8
-#EXTINF:-1 group-title="世界杯4K",CCTV16-1080P-HLG源
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 group-title="世界杯4K",广东综艺4K-HLG源
 http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
 #EXTINF:-1 group-title="世界杯4K",CCTV4K-HLG源
