@@ -77,6 +77,7 @@ CCTV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225706/index.m3u8
 咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls"></a></li>
 咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 咪咕体育,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
+抖音世界杯,https://pull-hs-spe-f5.douyincdn.com/fantasy/stream-400250861018940086_hd.flv?_neptune_token=MIGYBAydt4sgaqbX7myllX8Edsiz0OLpy18ADJyWvhLShHDcBrYnjfPhiiByV22nLeErxmbUto4ZJWZhVJaRlSya2E0cb2n79cQJ4eIvgE_2T4Cjz-SZImElfRsFyRvLRpb6HAzRwBdcgqR_cLBk6V-EmVHsuc8V48PocfzSsP9LcfJHUUThZ0MEEGGAbUZDZzSH8Rj30XbIORg&expire=1669381366&sign=d5036bc493d108e1bc1ada76782437c0&volcSecret=d5036bc493d108e1bc1ada76782437c0&volcTime=1669381366&abr_pts=-1800
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
