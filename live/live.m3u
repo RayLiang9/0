@@ -9,14 +9,16 @@ http://59.49.41.41/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m
 http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3"></a></li>
 #EXTINF:-1 group-title="世界杯赛",咪咕体育
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="世界杯赛",南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 group-title="世界杯赛",抖音世界杯
+http://mmmitv.top/test/douyin-x.php?id=rand
+#EXTINF:-1 group-title="世界杯赛",足球体育
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="世界杯赛",山东体育
 http://222.132.191.125:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="世界杯赛",广东体育
 http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="世界杯赛",足球体育
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="世界杯赛",南国都市
-https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 group-title="港澳综合",凤凰中文
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳综合",凤凰资讯
