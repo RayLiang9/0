@@ -81,6 +81,7 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
 咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 咪咕体育,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
+抖音世界杯,https://pull-flv-spe-l11.douyincdn.com/fantasy-trs/stream-400250101346861750_hd.flv?_neptune_token=MIGYBAxvPNKIpnDioYtIlhIEdmEJ25jwKQSgRkXah_aTR8D3hzV-FNkXJwF-8eFSp0mKxN6UNlkcdri3efcXdrzMqLTB55d5ktXRWsgQ92B0gtiJNp5qgcr7452tUB-W4uj-hzxFxeEMPSVpBs8boyOPJ5ko4Al0huszK6jx5l3GRo_jARQm_yUEEC_gjhD-3amEu6y4WzdSHTQ&expire=1669371010&sign=1aacd41075290103dee890de151f6273&abr_pts=-1800
 抖音世界杯,http://mmmitv.top/test/douyin-x.php?id=rand
 足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
