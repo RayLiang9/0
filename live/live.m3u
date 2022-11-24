@@ -5,14 +5,14 @@ http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 http://hls.ye23.vip/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="世界杯赛",CCTV5+
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8?
+#EXTINF:-1 group-title="世界杯赛",抖音世界杯
+https://pull-flv-spe-l11.douyincdn.com/fantasy-trs/stream-400250101346861750_hd.flv?_neptune_token=MIGYBAxvPNKIpnDioYtIlhIEdmEJ25jwKQSgRkXah_aTR8D3hzV-FNkXJwF-8eFSp0mKxN6UNlkcdri3efcXdrzMqLTB55d5ktXRWsgQ92B0gtiJNp5qgcr7452tUB-W4uj-hzxFxeEMPSVpBs8boyOPJ5ko4Al0huszK6jx5l3GRo_jARQm_yUEEC_gjhD-3amEu6y4WzdSHTQ&expire=1669371010&sign=1aacd41075290103dee890de151f6273&abr_pts=-1800
 #EXTINF:-1 group-title="世界杯赛",五星体育
 http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3"></a></li>
 #EXTINF:-1 group-title="世界杯赛",咪咕体育
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 group-title="世界杯赛",南国都市
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1 group-title="世界杯赛",抖音世界杯
-https://pull-flv-spe-l11.douyincdn.com/fantasy-trs/stream-400250101346861750_hd.flv?_neptune_token=MIGYBAxvPNKIpnDioYtIlhIEdmEJ25jwKQSgRkXah_aTR8D3hzV-FNkXJwF-8eFSp0mKxN6UNlkcdri3efcXdrzMqLTB55d5ktXRWsgQ92B0gtiJNp5qgcr7452tUB-W4uj-hzxFxeEMPSVpBs8boyOPJ5ko4Al0huszK6jx5l3GRo_jARQm_yUEEC_gjhD-3amEu6y4WzdSHTQ&expire=1669371010&sign=1aacd41075290103dee890de151f6273&abr_pts=-1800
 #EXTINF:-1 group-title="世界杯赛",足球体育
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="世界杯赛",山东体育
