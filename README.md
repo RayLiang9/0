@@ -10,5 +10,5 @@
 - cdn静态缓存
 ```
     https://cdn.jsdelivr.net/gh/rayliang9/0@main/new.json
-    https://purge.jsdelivr.net/gh/rayliang9/0/main/...      cdn刷新
+    https://purge.jsdelivr.net/gh/rayliang9/0@main/...      cdn刷新
 ```
