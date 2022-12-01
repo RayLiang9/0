@@ -9,6 +9,7 @@
 ```
 - cdn静态缓存
 ```
+    https://cdn.staticaly.com/gh/rayliang9/0/main/new.json
     https://cdn.jsdelivr.net/gh/rayliang9/0@main/new.json
     https://purge.jsdelivr.net/gh/rayliang9/0@main/...      cdn刷新
 ```
