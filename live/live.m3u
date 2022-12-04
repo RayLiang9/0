@@ -271,14 +271,10 @@ http://live.lytv.net.cn/ggpd/sd/live.m3u8
 http://stream.lytv.net.cn/2/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",龙岩综合
 http://live.lytv.net.cn/zhpwd/hd/live.m3u8
-#EXTINF:-1 group-title="少儿动画",优漫卡通
-http://39.135.138.58:18890/ysten-businessmobile/live/youmankaton/1.m3u8?zjiangsd
 #EXTINF:-1 group-title="少儿动画",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 #EXTINF:-1 group-title="少儿动画",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-#EXTINF:-1 group-title="少儿动画",金鹰卡通
-http://111.59.189.40:8445/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="少儿动画",亲子启蒙
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 #EXTINF:-1 group-title="少儿动画",亲子小游戏
