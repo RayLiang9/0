@@ -18,7 +18,8 @@ CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 咪咕体育,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 咪咕体育,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
+抖音世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+抖音世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
