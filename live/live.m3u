@@ -6,7 +6,7 @@ http://hls.ye23.vip/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="世界杯赛",五星体育
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="世界杯赛",咪咕体育
-http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 group-title="世界杯赛",抖音世界杯
 http://159.75.85.63:5678/zb.php?id=douyin
 #EXTINF:-1 group-title="世界杯赛",南国都市
@@ -121,16 +121,16 @@ http://hls.ye23.vip/hls/cctv16hd.m3u8
 http://hls.ye23.vip/hls/cctv17hd.m3u8
 #EXTINF:-1 group-title="央视频道",CETV1
 http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
-#EXTINF:-1 group-title="央视频道",CHC动作电影
-http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="央视频道",CHC家庭影院
-http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="央视频道",CETV2
 http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 #EXTINF:-1 group-title="央视频道",CETV3
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 group-title="央视频道",CETV4
 http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+#EXTINF:-1 group-title="央视频道",CHC动作电影
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="央视频道",CHC家庭影院
+http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://hls.yun.gehua.net.cn:8088/live/FuJian_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
