@@ -155,16 +155,10 @@ http://124.220.17.172/shtv/ybhg.php?id=220245527
 http://124.220.17.172/as.php?id=40
 #EXTINF:-1 group-title="福建卫视",厦门卫视
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
-#EXTINF:-1 group-title="福建卫视",漳州六鳌
-http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 group-title="福建卫视",漳州醉美
-http://gccncc.v.wscdns.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",三明公共
 http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",三明新闻
 http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
-#EXTINF:-1 group-title="福建卫视",三明综合
-http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州新闻
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",龙岩公共
@@ -173,6 +167,10 @@ http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
 http://stream.lytv.net.cn/2/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",龙岩综合
 http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+#EXTINF:-1 group-title="福建卫视",漳州六鳌
+http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 group-title="福建卫视",漳州醉美
+http://gccncc.v.wscdns.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="少儿动画",CCTV14
 http://hls.ye23.vip/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="少儿动画",南京少儿
