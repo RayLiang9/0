@@ -50,7 +50,7 @@ http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="央视频道",CHC家庭电影
 http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="央视频道",CHC高清电影
-http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://39.184.224.99:9080/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -82,7 +82,7 @@ http://39.184.224.99:9080/newlive/live/hls/37/live.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://39.184.224.99:9080/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://39.184.224.99:9080/newlive/live/hls/35/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/GuangXi_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新疆卫视
@@ -90,13 +90,13 @@ http://39.184.224.99:9080/newlive/live/hls/45/live.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://39.184.224.99:9080/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
+http://218.29.55.44:808/hls/38/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://39.184.224.99:9080/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://39.184.224.99:9080/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
+http://218.29.55.44:808/hls/26/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",深圳卫视
@@ -130,7 +130,7 @@ http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门奥视
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳综合",香港卫视
-http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 group-title="港澳综合",香港女神系列
 http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 #EXTINF:-1 group-title="港澳综合",香港衛視文旅
@@ -139,30 +139,16 @@ https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
 #EXTINF:-1 group-title="港澳综合",香港黑帮系列
 http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
-#EXTINF:-1 group-title="世界杯赛",CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="世界杯赛",CCTV5
-http://39.184.224.99:9080/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="世界杯赛",咪咕体育
-http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 group-title="世界杯赛",抖音世界杯
-http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
-#EXTINF:-1 group-title="世界杯赛",五星体育
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="世界杯赛",南国都市
-http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-#EXTINF:-1 group-title="世界杯赛",足球体育
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="福建卫视",厦门卫视
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州六鳌
-http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
+http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州醉美
 http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",三明公共
-http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+http://stream.smntv.cn/smtv2/sd/live.m3u8
 #EXTINF:-1 group-title="福建卫视",三明新闻
-http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
+http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",漳州新闻
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="福建卫视",龙岩公共
@@ -182,7 +168,7 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t1
 #EXTINF:-1 group-title="少儿动画",亲子小游戏
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 #EXTINF:-1 group-title="少儿动画",儿歌大全
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key
 #EXTINF:-1 group-title="少儿动画",儿童乐园
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 #EXTINF:-1 group-title="少儿动画",动画小天地
@@ -319,12 +305,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
 http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 #EXTINF:-1 group-title="记录频道",[TW]国家地理野生
 http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-#EXTINF:-1 group-title="记录频道",[TW]探索亚洲
-http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
-#EXTINF:-1 group-title="记录频道",[TW]探索科学
-http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
-#EXTINF:-1 group-title="记录频道",[TW]探索频道
-http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 #EXTINF:-1 group-title="记录频道",之江记录
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1 group-title="记录频道",动物星球
@@ -333,13 +313,5 @@ http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967
 http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-1 group-title="记录频道",拳满天下+双人荒野生存+一口气看完求生1+1全集
 http://111.62.156.15/tx.flv.huya.com/src/1099531627818-1099531627818-85899526308626432-2199063379092-10057-A-0-1.flv?wsSecret=a784fd2ba393461f5b97e015f58fcadd&wsTime=6283b134&u=0&seqid=16527113489399372&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:-1 group-title="记录频道",探索亚洲
-http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
-#EXTINF:-1 group-title="记录频道",探索科学
-http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
-#EXTINF:-1 group-title="记录频道",探索频道
-http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 #EXTINF:-1 group-title="记录频道",爱探索
 http://111.11.123.28:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630
-#EXTINF:-1 group-title="记录频道",爱自然
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
