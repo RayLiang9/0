@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://39.184.224.99:9080/newlive/live/hls/4/live.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://39.184.224.99:9080/newlive/live/hls/5/live.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://39.184.224.99:9080/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://39.184.224.99:9080/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://39.184.224.99:9080/newlive/live/hls/8/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://39.184.224.99:9080/newlive/live/hls/9/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://39.184.224.99:9080/newlive/live/hls/10/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://39.184.224.99:9080/newlive/live/hls/11/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://39.184.224.99:9080/newlive/live/hls/12/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 group-title="央视频道",CETV1
@@ -44,49 +44,49 @@ http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 group-title="央视频道",CETV4
 http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 #EXTINF:-1 group-title="央视频道",CHC动作电影
-http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="央视频道",CHC家庭影院
-http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
+http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="央视频道",CHC家庭电影
 http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="央视频道",CHC高清电影
-http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://39.184.224.99:9080/newlive/live/hls/34/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/FuJian_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://39.184.224.99:9080/newlive/live/hls/47/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/YunNan_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",兵团卫视
-http://111.59.189.40:8445/tsfile/live/0115_1.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://39.184.224.99:9080/newlive/live/hls/44/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/NeiMengGu_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://39.184.224.99:9080/newlive/live/hls/21/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",南方卫视
-http://lu1.cc/c/tv/sjtv/p/migu.php?id=dwqws
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://39.184.224.99:9080/newlive/live/hls/43/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/JiLinWeiShiHD_1200.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://39.184.224.99:9080/newlive/live/hls/33/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/SiChuan_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://39.184.224.99:9080/newlive/live/hls/24/live.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://39.184.224.99:9080/newlive/live/hls/41/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/NingXia_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://39.184.224.99:9080/newlive/live/hls/30/live.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://39.184.224.99:9080/newlive/live/hls/25/live.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://39.184.224.99:9080/newlive/live/hls/37/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/ShanXi_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://39.184.224.99:9080/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://39.184.224.99:9080/newlive/live/hls/35/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/GuangXi_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
-http://111.20.35.103:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://39.184.224.99:9080/newlive/live/hls/45/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/XinJiang_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://39.184.224.99:9080/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
@@ -96,9 +96,9 @@ http://39.184.224.99:9080/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://39.184.224.99:9080/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://39.184.224.99:9080/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -106,31 +106,31 @@ http://39.184.224.99:9080/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://39.184.224.99:9080/newlive/live/hls/42/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/GanSu_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://39.184.224.99:9080/newlive/live/hls/46/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://39.184.224.99:9080/newlive/live/hls/39/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/GuiZhou_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://39.184.224.99:9080/newlive/live/hls/29/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/LiaoNingHD_1200.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://39.184.224.99:9080/newlive/live/hls/28/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/ChongQing_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://39.184.224.99:9080/newlive/live/hls/38/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/ShannXi_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://39.184.224.99:9080/newlive/live/hls/40/live.m3u8
+http://hls.yun.gehua.net.cn:8088/live/QingHai_2000.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://39.184.224.99:9080/newlive/live/hls/27/live.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
 #EXTINF:-1 group-title="港澳综合",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳综合",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门卫视
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门奥视
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳综合",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港澳综合",香港女神系列
 http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 #EXTINF:-1 group-title="港澳综合",香港衛視文旅
@@ -140,9 +140,9 @@ http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-30
 #EXTINF:-1 group-title="港澳综合",香港黑帮系列
 http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
 #EXTINF:-1 group-title="福建卫视",厦门卫视
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州六鳌
-http://gccncc.v.wscdns.com/gc/fcw01_1/index.m3u8
+http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州醉美
 http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="福建卫视",三明公共
@@ -152,7 +152,7 @@ http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 group-title="福建卫视",漳州新闻
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="福建卫视",龙岩公共
-http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
+http://live.lytv.net.cn/ggpd/sd/live.m3u8
 #EXTINF:-1 group-title="福建卫视",龙岩新闻
 http://stream.lytv.net.cn/2/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建卫视",龙岩综合
@@ -162,7 +162,7 @@ http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 group-title="少儿动画",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="少儿动画",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 #EXTINF:-1 group-title="少儿动画",亲子启蒙
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 #EXTINF:-1 group-title="少儿动画",亲子小游戏
@@ -178,7 +178,7 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t1
 #EXTINF:-1 group-title="少儿动画",奥特曼
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 #EXTINF:-1 group-title="少儿动画",宝宝课堂
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
 #EXTINF:-1 group-title="少儿动画",怀旧动画
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 #EXTINF:-1 group-title="少儿动画",猫和老鼠
@@ -260,7 +260,7 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c0
 #EXTINF:-1 group-title="记录频道",海洋里的神奇家族(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
 #EXTINF:-1 group-title="记录频道",海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
 #EXTINF:-1 group-title="记录频道",猫科动物谁为王者(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
 #EXTINF:-1 group-title="记录频道",猫科动物谁为王者(下)
@@ -299,9 +299,27 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 #EXTINF:-1 group-title="记录频道",NewTV精品记录
 http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="记录频道",[TW]国家地理野生
+http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+#EXTINF:-1 group-title="记录频道",[TW]探索亚洲
+http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+#EXTINF:-1 group-title="记录频道",[TW]探索科学
+http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1 group-title="记录频道",[TW]探索频道
+http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 #EXTINF:-1 group-title="记录频道",之江记录
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 group-title="记录频道",地理野生
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-1 group-title="记录频道",拳满天下+双人荒野生存+一口气看完求生1+1全集
 http://111.62.156.15/tx.flv.huya.com/src/1099531627818-1099531627818-85899526308626432-2199063379092-10057-A-0-1.flv?wsSecret=a784fd2ba393461f5b97e015f58fcadd&wsTime=6283b134&u=0&seqid=16527113489399372&ctype=tars_mp&fs=bgct&t=102
+#EXTINF:-1 group-title="记录频道",探索亚洲
+http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+#EXTINF:-1 group-title="记录频道",探索科学
+http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1 group-title="记录频道",探索频道
+http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 #EXTINF:-1 group-title="记录频道",爱探索
 http://111.11.123.28:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630
+#EXTINF:-1 group-title="记录频道",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
