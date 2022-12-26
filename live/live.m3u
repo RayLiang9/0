@@ -139,24 +139,6 @@ https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
 #EXTINF:-1 group-title="港澳综合",香港黑帮系列
 http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
-#EXTINF:-1 group-title="福建卫视",厦门卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
-#EXTINF:-1 group-title="福建卫视",漳州六鳌
-http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 group-title="福建卫视",漳州醉美
-http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
-#EXTINF:-1 group-title="福建卫视",三明公共
-http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
-#EXTINF:-1 group-title="福建卫视",三明新闻
-http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
-#EXTINF:-1 group-title="福建卫视",漳州新闻
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-#EXTINF:-1 group-title="福建卫视",龙岩公共
-http://live.lytv.net.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="福建卫视",龙岩新闻
-http://live.lytv.net.cn/zhpwd/hd/live.m3u8?zfud
-#EXTINF:-1 group-title="福建卫视",龙岩综合
-http://live.lytv.net.cn/zhpwd/hd/live.m3u8
 #EXTINF:-1 group-title="少儿动画",CCTV14
 http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 group-title="少儿动画",南京少儿
