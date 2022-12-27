@@ -32,7 +32,7 @@ http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 group-title="央视频道",CETV1
@@ -40,17 +40,17 @@ http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 #EXTINF:-1 group-title="央视频道",CETV2
 http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 #EXTINF:-1 group-title="央视频道",CETV3
-http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 group-title="央视频道",CETV4
 http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 group-title="央视频道",CHC动作电影
-http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="央视频道",CHC家庭影院
-http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
+http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="央视频道",CHC家庭电影
 http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="央视频道",CHC高清电影
-http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://39.184.224.99:9080/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -64,7 +64,7 @@ http://39.184.224.99:9080/newlive/live/hls/44/live.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://39.184.224.99:9080/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 group-title="卫视频道",南方卫视
-http://lu1.cc/c/tv/sjtv/p/migu.php?id=dwqws
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
@@ -128,7 +128,7 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="港澳综合",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门卫视
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳综合",澳门奥视
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳综合",香港卫视
@@ -146,7 +146,7 @@ http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 group-title="少儿动画",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="少儿动画",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 #EXTINF:-1 group-title="少儿动画",亲子启蒙
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 #EXTINF:-1 group-title="少儿动画",亲子小游戏
@@ -178,7 +178,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba
 #EXTINF:-1 group-title="记录频道",动物与计谋
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
 #EXTINF:-1 group-title="记录频道",动物世界
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 #EXTINF:-1 group-title="记录频道",动物冠军俱乐部
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
 #EXTINF:-1 group-title="记录频道",动物冠军竞技场(上)
